@@ -18,6 +18,4 @@ Esmu rakstījis programmus JavaScript valoda, Pyhton, C# un nobeigumā rakstīju
 Valodas | Angļu Valoda | Lat. Valoda | Krievu Valoda |
 --------|--------------|-------------|---------------|
 Runašana |      B1     |      B2     |      C1       |
----------|-------------|-------------|---------------|
 Rakstīšana|     B2     |      B2     |      C1       |
-----------|------------------------------------------|
